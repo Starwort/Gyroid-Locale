@@ -1,4 +1,7 @@
 en:
-  added: You have been added to the database.
+  3ds: Your 3DS friend code has been added.
   not3ds: That is not a valid 3DS friend code.
+  fc: Your Nintendo Switch friend code has been added.
   notfc: That is not a valid Nintendo Switch friend code.
+  fruit: Your town's starting fruit has been set.
+  notfruit: That is not a valid starting fruit (`Apples`, `Oranges`, `Cherries`, `Pears` or `Peaches`).
