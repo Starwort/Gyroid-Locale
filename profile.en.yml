@@ -8,3 +8,7 @@ en:
   hacker: >
     Your hacker status has been set to: {}.
   furniture: You now have {} complete furniture sets.
+  songs: You now have {} collected songs.
+  badges: You now have {} badges.
+  villager: Your favourite villager has been set.
+  pwp: You now have {} completed Public Works Projects.
