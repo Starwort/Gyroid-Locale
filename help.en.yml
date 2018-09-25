@@ -21,8 +21,12 @@ en:
   profile:
     main: |
       All commands related to your profile.
-      `[p]help profile 3ds` to get started
+      Running any subcommand will initialise your profile.
     add: |
-      Add yourself to the profile database using your 3DS friend code.
+      Add your 3DS friend code to your profile.
       Example:
       [p]profile 3ds 0791 - 2985 - 5401
+    fc: |
+      Add your friend code to your profile.
+      Example:
+      [p]profile fc SW-1519-8784-6001
