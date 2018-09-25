@@ -30,3 +30,7 @@ en:
       Add your friend code to your profile.
       Example:
       [p]profile fc SW-1519-8784-6001
+    fruit: |
+      Add your town's starting fruit to your profile.
+      Example:
+      [p]profile fruit Apples
