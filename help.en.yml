@@ -34,3 +34,27 @@ en:
       Add your town's starting fruit to your profile.
       Example:
       [p]profile fruit Apples
+    hack: |
+      Are you a hacker?
+      Example:
+      [p]profile hacker yes
+    furniture: |
+      Add how many furniture sets you've completed to your profile.
+      Example:
+      [p]profile furniture 24
+    songs: |
+      Add the number of songs you've unlocked to your profile.
+      Example:
+      [p]profile slider 10
+    badges: |
+      Add the number of badges you've collected to your profile.
+      Example:
+      [p]profile badges 42
+    villager: |
+      Add your favourite villager to your profile.
+      Example:
+      [p]profile villager
+    pwp: |
+      Add the number of Public Works Projects you have completed to your profile.
+      Example:
+      [p]profile pwps 5
