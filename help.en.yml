@@ -21,8 +21,8 @@ en:
   profile:
     main: |
       All commands related to your profile.
-      `[p]help profile add` to get started
+      `[p]help profile 3ds` to get started
     add: |
       Add yourself to the profile database using your 3DS friend code.
       Example:
-      [p]profile add 0791 - 2985 - 5401
+      [p]profile 3ds 0791 - 2985 - 5401
