@@ -1,0 +1,28 @@
+en:
+  manual: Gyroid Help Manual
+  page_msg: There are {} help pages. Send a number to see the corresponding page. Send any other message to exit.
+  quit: Quit Help menu.
+  footer: Type {0}help <command> for more info on a command. You can also type {0}help <category> for more info on a category.
+  desc: Gyroid's commands
+  syntax: Syntax =
+  no_category: No Category
+  part: pt.
+  commands: Commands
+  subcommands: Subcommands
+  page: Gyroid Help Manual Page {}
+  no_command: No command called "{}" found.
+  command_not_found: Commands are case sensitive. Please check your spelling and try again.
+  no_subcommands: Command "{0.name}" has no subcommands.
+  help: |
+    Shows help documentation.
+    [p]help: Shows the help manual.
+    [p]help <command>: Show help for a command.
+    [p]help <category>: Show commands and description for a category.
+  profile:
+    main: |
+      All commands related to your profile.
+      `[p]help profile add` to get started
+    add: |
+      Add yourself to the profile database using your 3DS friend code.
+      Example:
+      [p]profile add 0791 - 2985 - 5401

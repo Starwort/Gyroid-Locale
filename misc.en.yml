@@ -1,0 +1,63 @@
+confused: Confused?
+  surprised: Surprised? 
+  missing_permissions: |
+    Spyke does not have all the permissions required for commands
+
+    Without these permissions, all commands will be withheld.
+
+    The required permissions for Spyke are:
+    ```
+    Embed Links
+    Read Message History
+    Attach Files
+    ```
+
+    The additional recommended permissions for Spyke are:
+    ```
+    Manage Messages
+    Add Reactions
+    ```
+
+    Currently missing required permissions:
+    ```
+    {0}
+    ```
+
+    Currently missing recommended permissions:
+    ```
+    {1}
+    ```
+
+    If the `Spyke` role (or any other applied role) has these permissions, confirm that no channel overrides are causing the issue.
+    If problems persist, join the support server: `q2j8HtB`
+  permission_embed: Embed Links
+  permission_history: Read Message History
+  permission_files: Attach Files
+  permission_messages: Manage Messages
+  permission_reactions: Add Reactions
+  permission_roles: Manage Roles
+  permission_emoji: Use External Emojis
+  no_missing: None :D
+  devdm: |
+    {}
+
+    *Sent by `{}`*
+    Respond to them by using `reply` in this DM.
+  devreply: Replied to {}.
+  devmail: Your message has been sent to the devs! They will likely respond shortly. Hold on tight and make sure Spyke can DM you!
+  time:
+    day: day
+    days: days
+    week: week
+    weeks: weeks
+    month: month
+    months: months
+    year: year
+    years: years
+    ago: ago
+    minute: minute
+    minutes: minutes
+    hour: hour
+    hours: hours
+    second: second
+    seconds: seconds
