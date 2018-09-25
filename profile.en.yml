@@ -5,3 +5,6 @@ en:
   notfc: That is not a valid Nintendo Switch friend code.
   fruit: Your town's starting fruit has been set.
   notfruit: That is not a valid starting fruit (`Apples`, `Oranges`, `Cherries`, `Pears` or `Peaches`).
+  hacker: >
+    Your hacker status has been set to: {}.
+  furniture: You now have {} complete furniture sets.
