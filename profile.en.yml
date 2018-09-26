@@ -11,4 +11,5 @@ en:
   songs: You now have {} collected songs.
   badges: You now have {} badges.
   villager: Your favourite villager has been set.
+  notvillager: That is not a valid villager in your locale.
   pwp: You now have {} completed Public Works Projects.
