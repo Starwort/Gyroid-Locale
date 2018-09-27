@@ -61,7 +61,7 @@ en:
         [p]profile fc SW-1519-8784-6001
     hacker:
       set: >
-        Your hacker status has been set to: {}.
+        Your hacker status has been set to: {}
       help: |
         Are you a hacker?
         Example:
