@@ -44,7 +44,7 @@ en:
       help: |
         Add your town's dream address to your profile.
         Example:
-        [p]profile dream 6C00-00F9-A575
+        [p]profile dream 6C00 - 00F9 - A575
     3ds: 
       set: Your 3DS friend code has been added.
       invalid: That is not a valid 3DS friend code.
