@@ -11,10 +11,11 @@ en:
       town: Town Name
       villager: Favourite Villager
       fruit: Town Starting Fruit
+      pwp: Completed Public Works Projects
+      dream: Dream Address
       furniture: Completed Furniture Sets
       songs: Songs Unlocked
       badges: Badges Collected
-      pwp: Completed Public Works Projects
       requestedby: Requested by {}
     help: |
       All commands related to your profile.
@@ -37,6 +38,13 @@ en:
         cherries: Cherries
         pears: Pears
         oranges: Oranges
+    dream: 
+      set: Your town's dream address has been set.
+      invalid: That is not a valid dream address!
+      help: |
+        Add your town's dream address to your profile.
+        Example:
+        [p]profile dream 6C00-00F9-A575
     3ds: 
       set: Your 3DS friend code has been added.
       invalid: That is not a valid 3DS friend code.
