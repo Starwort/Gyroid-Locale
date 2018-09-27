@@ -1,64 +1,24 @@
 en:
-  manual: Gyroid Help Manual
-  page_msg: There are {} help pages. Send a number to see the corresponding page. Send any other message to exit.
-  quit: Quit Help menu.
-  footer: Type {0}help <command> for more info on a command. You can also type {0}help <category> for more info on a category.
-  desc: Gyroid's commands
-  syntax: Syntax =
-  no_category: No Category
-  part: pt.
-  commands: Commands
-  subcommands: Subcommands
-  page: Gyroid Help Manual Page {}
-  no_command: No command called "{}" found.
-  command_not_found: Commands are case sensitive. Please check your spelling and try again.
-  no_subcommands: Command "{0.name}" has no subcommands.
-  help: |
-    Shows help documentation.
-    [p]help: Shows the help manual.
-    [p]help <command>: Show help for a command.
-    [p]help <category>: Show commands and description for a category.
-  profile:
-    main: |
-      All commands related to your profile.
-      Running any subcommand will initialise your profile.
-    add: |
-      Add your 3DS friend code to your profile.
-      Example:
-      [p]profile 3ds 0791 - 2985 - 5401
-    fc: |
-      Add your friend code to your profile.
-      Example:
-      [p]profile fc SW-1519-8784-6001
-    fruit: |
-      Add your town's starting fruit to your profile.
-      Example:
-      [p]profile fruit Apples
-    hack: |
-      Are you a hacker?
-      Example:
-      [p]profile hacker yes
-    furniture: |
-      Add how many furniture sets you've completed to your profile.
-      Example:
-      [p]profile furniture 24
-    songs: |
-      Add the number of songs you've unlocked to your profile.
-      Example:
-      [p]profile slider 10
-    badges: |
-      Add the number of badges you've collected to your profile.
-      Example:
-      [p]profile badges 42
-    villager: |
-      Add your favourite villager to your profile.
-      Example:
-      [p]profile villager Fauna
-    pwp: |
-      Add the number of Public Works Projects you have completed to your profile.
-      Example:
-      [p]profile pwps 5
-    locale: |
-      Check or set your locale. Defaults to `EN`
-      Example:
-      [p]profile locale en
+  help:
+    page_msg: There are {} help pages. Send a number to see the corresponding page. Send any other message to exit.
+    quit: Quit Help menu.
+    help: |
+      Shows help documentation for a command, a list of commands with descriptions, or a list of commands within a category.
+      Examples:
+      [p]help
+      [p]help profile
+      [p]help profile 3ds
+      [p]help Profile
+  formatter:
+    manual: Gyroid Help Manual
+    footer: Type {0}help <command> for more info on a command. You can also type {0}help <category> for more info on a category.
+    desc: Gyroid's commands
+    syntax: Syntax =
+    no_category: No Category
+    part: pt.
+    commands: Commands
+    subcommands: Subcommands
+    page: Gyroid Help Manual Page {}
+    no_command: No command called "{}" found.
+    command_not_found: Commands are case sensitive. Please check your spelling and try again.
+    no_subcommands: Command "{0.name}" has no subcommands.

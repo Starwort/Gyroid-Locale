@@ -5,4 +5,5 @@ en:
     Yes.
   smh: >
     No.
-  large: The number you have provided is too large.
+  zero: You cannot use zero here.
+  negative: You cannot use a negative number here.
