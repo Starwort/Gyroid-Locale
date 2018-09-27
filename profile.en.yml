@@ -105,3 +105,10 @@ en:
       [p]profile Starwort#6129
       [p]profile
       [p]profile Starwort
+  fruit:
+    fruit:
+      apples: Apples
+      peaches: Peaches
+      cherries: Cherries
+      pears: Pears
+      oranges: Oranges
