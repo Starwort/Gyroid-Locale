@@ -1,4 +1,6 @@
 en:
+  youhavenoprofile: You have no profile!
+  theyhavenoprofile: They have no profile!
   profile:
     embed:
       title: Profile for {}
