@@ -13,3 +13,5 @@ en:
   villager: Your favourite villager has been set.
   notvillager: That is not a valid villager in your locale.
   pwp: You now have {} completed Public Works Projects.
+  cur_locale: Your current locale is {}.
+  locale_set: Your locale has been set.

@@ -58,3 +58,7 @@ en:
       Add the number of Public Works Projects you have completed to your profile.
       Example:
       [p]profile pwps 5
+    locale: |
+      Check or set your locale. Defaults to `EN`
+      Example:
+      [p]profile locale en
