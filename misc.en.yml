@@ -1,4 +1,5 @@
-confused: Confused?
+en:
+  confused: Confused?
   surprised: Surprised? 
   missing_permissions: |
     Gyroid does not have all the permissions required for commands
