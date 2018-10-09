@@ -1,0 +1,197 @@
+en:
+  tracks:
+    rain:
+      day:
+        autocamp: Unknown (STRM_BGM_AUTOCAMP_DAY_RAINY)
+        a: Day theme 1 (Rain)
+        b: Day theme 2 (Rain)
+        c: Day theme 3 (Rain)
+      night:
+        autocamp: Unknown (STRM_BGM_AUTOCAMP_NIGHT_RAINY)
+        a: Night theme 1 (Rain)
+        b: Night theme 2 (Rain)
+        c: Night theme 3 (Rain)
+      quiet:
+        a: 'Quiet' theme 1 (Rain)
+        b: 'Quiet' theme 2 (Rain)
+        c: 'Quiet' theme 3 (Rain)
+      time:
+        oo: 00:00 to 00:59 (Rain)
+        oi: 01:00 to 01:59 (Rain)
+        oz: 02:00 to 02:59 (Rain)
+        o3: 03:00 to 03:59 (Rain)
+        o4: 04:00 to 04:59 (Rain)
+        o5: 05:00 to 05:59 (Rain)
+        o6: 06:00 to 06:59 (Rain)
+        o7: 07:00 to 07:59 (Rain)
+        o8: 08:00 to 07:59 (Rain)
+        o9: 09:00 to 07:59 (Rain)
+        io: 10:00 to 07:59 (Rain)
+        ii: 11:00 to 07:59 (Rain)
+        iz: 12:00 to 07:59 (Rain)
+        i3: 13:00 to 07:59 (Rain)
+        i4: 14:00 to 07:59 (Rain)
+        i5: 15:00 to 07:59 (Rain)
+        i6: 16:00 to 07:59 (Rain)
+        i7: 17:00 to 07:59 (Rain)
+        i8: 18:00 to 18:59 (Rain)
+        i9: 19:00 to 19:59 (Rain)
+        zo: 20:00 to 20:59 (Rain)
+        zi: 21:00 to 21:59 (Rain)
+        zz: 22:00 to 22:59 (Rain)
+        z3: 23:00 to 23:59 (Rain)
+      intermission:
+        day:
+          a: Day intermission 1 (Rain)
+          b: Day intermission 2 (Rain)
+          c: Day intermission 3 (Rain)
+        quiet:
+          a: 'Quiet' intermission 1 (Rain)
+          b: 'Quiet' intermission 2 (Rain)
+          c: 'Quiet' intermission 3 (Rain)
+    snow:
+      day:
+        autocamp: Unknown (STRM_BGM_AUTOCAMP_DAY_SNOWY)
+        a: Day theme 1 (Snow)
+        b: Day theme 2 (Snow)
+        c: Day theme 3 (Snow)
+      night:
+        autocamp: Unknown (STRM_BGM_AUTOCAMP_NIGHT_SNOWY)
+        a: Night theme 1 (Snow)
+        b: Night theme 2 (Snow)
+        c: Night theme 3 (Snow)
+      quiet:
+        a: 'Quiet' theme 1 (Snow)
+        b: 'Quiet' theme 2 (Snow)
+        c: 'Quiet' theme 3 (Snow)
+      time:
+        oo: 00:00 to 00:59 (Snow)
+        oi: 01:00 to 01:59 (Snow)
+        oz: 02:00 to 02:59 (Snow)
+        o3: 03:00 to 03:59 (Snow)
+        o4: 04:00 to 04:59 (Snow)
+        o5: 05:00 to 05:59 (Snow)
+        o6: 06:00 to 06:59 (Snow)
+        o7: 07:00 to 07:59 (Snow)
+        o8: 08:00 to 07:59 (Snow)
+        o9: 09:00 to 07:59 (Snow)
+        io: 10:00 to 07:59 (Snow)
+        ii: 11:00 to 07:59 (Snow)
+        iz: 12:00 to 07:59 (Snow)
+        i3: 13:00 to 07:59 (Snow)
+        i4: 14:00 to 07:59 (Snow)
+        i5: 15:00 to 07:59 (Snow)
+        i6: 16:00 to 07:59 (Snow)
+        i7: 17:00 to 07:59 (Snow)
+        i8: 18:00 to 18:59 (Snow)
+        i9: 19:00 to 19:59 (Snow)
+        zo: 20:00 to 20:59 (Snow)
+        zi: 21:00 to 21:59 (Snow)
+        zz: 22:00 to 22:59 (Snow)
+        z3: 23:00 to 23:59 (Snow)
+      intermission:
+        day:
+          a: Day intermission 1 (Snow)
+          b: Day intermission 2 (Snow)
+          c: Day intermission 3 (Snow)
+        quiet:
+          a: 'Quiet' intermission 1 (Snow)
+          b: 'Quiet' intermission 2 (Snow)
+          c: 'Quiet' intermission 3 (Snow)
+    sun:
+      day:
+        autocamp: Unknown (STRM_BGM_AUTOCAMP_DAY_SUNNY)
+        a: Day theme 1 (Sun)
+        b: Day theme 2 (Sun)
+        c: Day theme 3 (Sun)
+      night:
+        autocamp: Unknown (STRM_BGM_AUTOCAMP_NIGHT_SUNNY)
+        a: Night theme 1 (Sun)
+        b: Night theme 2 (Sun)
+        c: Night theme 3 (Sun)
+      quiet:
+        a: 'Quiet' theme 1 (Sun)
+        b: 'Quiet' theme 2 (Sun)
+        c: 'Quiet' theme 3 (Sun)
+      time:
+        oo: 00:00 to 00:59 (Sun)
+        oi: 01:00 to 01:59 (Sun)
+        oz: 02:00 to 02:59 (Sun)
+        o3: 03:00 to 03:59 (Sun)
+        o4: 04:00 to 04:59 (Sun)
+        o5: 05:00 to 05:59 (Sun)
+        o6: 06:00 to 06:59 (Sun)
+        o7: 07:00 to 07:59 (Sun)
+        o8: 08:00 to 07:59 (Sun)
+        o9: 09:00 to 07:59 (Sun)
+        io: 10:00 to 07:59 (Sun)
+        ii: 11:00 to 07:59 (Sun)
+        iz: 12:00 to 07:59 (Sun)
+        i3: 13:00 to 07:59 (Sun)
+        i4: 14:00 to 07:59 (Sun)
+        i5: 15:00 to 07:59 (Sun)
+        i6: 16:00 to 07:59 (Sun)
+        i7: 17:00 to 07:59 (Sun)
+        i8: 18:00 to 18:59 (Sun)
+        i9: 19:00 to 19:59 (Sun)
+        zo: 20:00 to 20:59 (Sun)
+        zi: 21:00 to 21:59 (Sun)
+        zz: 22:00 to 22:59 (Sun)
+        z3: 23:00 to 23:59 (Sun)
+      intermission:
+        day:
+          a: Day intermission 1 (Sun)
+          b: Day intermission 2 (Sun)
+          c: Day intermission 3 (Sun)
+        quiet:
+          a: 'Quiet' intermission 1 (Sun)
+          b: 'Quiet' intermission 2 (Sun)
+          c: 'Quiet' intermission 3 (Sun)
+    event:
+      carnival: Unknown (STRM_BGM_EVT_CARNIVAL)
+      christmas: Christmas festival
+      easter: Easter festival
+      bonfire: Bonfire Night festival
+      gantan: STRM_BGM_EVT_GANTAN
+      hallow: Halloween festival
+      harvest: Harvest festival
+      newyear: New Year\'s festival
+    pwptheme:
+      bingo: Unknown (STRM_BGM_FLD_BINGO)
+      ceremony: Unknown (STRM_BGM_FLD_CEREMONY)
+      cml: Unknown (STRM_BGM_FLD_CML)
+      hornet: Unknown (STRM_BGM_FLD_HORNET)
+      racket: Unknown (STRM_BGM_FLD_RACKET)
+      reset: Reset Surveillance Centre
+      symboltree: Unknown (STRM_BGM_FLD_SYMBOLTREE)
+    fanfare: Goal complete fanfare
+    indoor:
+      able: Able Sisters
+      award: STRM_BGM_IND_AWARD
+      beautysalon: STRM_BGM_IND_BEAUTYSALON
+      cafe: STRM_BGM_IND_CAFE
+      club101: Club 101
+      weed: Weeding / Leif's shop theme
+      fortune: STRM_BGM_IND_FORTUNE
+      redd: Redd's Gallery
+      grace: STRM_BGM_IND_GRACE
+      igloo: STRM_BGM_IND_IGLOO
+      nooklings:
+        close: STRM_BGM_IND_KODANUKI_CLOSE
+        convenience: STRM_BGM_IND_KODANUKI_CONVENIENCE
+        depart: STRM_BGM_IND_KODANUKI_DEPART
+        homecentre: STRM_BGM_IND_KODANUKI_HOMECENTER
+        shoten: STRM_BGM_IND_KODANUKI_SHOTEN
+        super: STRM_BGM_IND_KODANUKI_SUPER
+      museum: STRM_BGM_IND_MUSEUM
+      office: STRM_BGM_IND_OFFICE
+      policebox: STRM_BGM_IND_POLICEBOX
+      post:
+        day: Post Office (Day)
+        night: Post Office (Night)
+      retail: Re-tail
+      reset: Reset Centre (Active)
+      shoes: STRM_BGM_IND_SHOESHOP
+      homes: Nook's Homes
+      station: STRM_BGM_IND_STATION
+      dream: Dream Suite
