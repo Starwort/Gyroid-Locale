@@ -167,31 +167,102 @@ en:
     fanfare: Goal complete fanfare
     indoor:
       able: Able Sisters
-      award: STRM_BGM_IND_AWARD
-      beautysalon: STRM_BGM_IND_BEAUTYSALON
-      cafe: STRM_BGM_IND_CAFE
+      award: Unknown (STRM_BGM_IND_AWARD)
+      beautysalon: Unknown (STRM_BGM_IND_BEAUTYSALON)
+      cafe: Unknown (STRM_BGM_IND_CAFE)
       club101: Club 101
       weed: Weeding / Leif's shop theme
-      fortune: STRM_BGM_IND_FORTUNE
+      fortune: Unknown (STRM_BGM_IND_FORTUNE)
       redd: Redd's Gallery
-      grace: STRM_BGM_IND_GRACE
-      igloo: STRM_BGM_IND_IGLOO
+      grace: Unknown (STRM_BGM_IND_GRACE)
+      igloo: Unknown (STRM_BGM_IND_IGLOO)
       nooklings:
-        close: STRM_BGM_IND_KODANUKI_CLOSE
-        convenience: STRM_BGM_IND_KODANUKI_CONVENIENCE
-        depart: STRM_BGM_IND_KODANUKI_DEPART
-        homecentre: STRM_BGM_IND_KODANUKI_HOMECENTER
-        shoten: STRM_BGM_IND_KODANUKI_SHOTEN
-        super: STRM_BGM_IND_KODANUKI_SUPER
-      museum: STRM_BGM_IND_MUSEUM
-      office: STRM_BGM_IND_OFFICE
-      policebox: STRM_BGM_IND_POLICEBOX
+        close: Unknown (STRM_BGM_IND_KODANUKI_CLOSE)
+        convenience: Unknown (STRM_BGM_IND_KODANUKI_CONVENIENCE)
+        depart: Unknown (STRM_BGM_IND_KODANUKI_DEPART)
+        homecentre: Unknown (STRM_BGM_IND_KODANUKI_HOMECENTER)
+        shoten: Unknown (STRM_BGM_IND_KODANUKI_SHOTEN)
+        super: Unknown (STRM_BGM_IND_KODANUKI_SUPER)
+      museum: Unknown (STRM_BGM_IND_MUSEUM)
+      office: Unknown (STRM_BGM_IND_OFFICE)
+      policebox: Unknown (STRM_BGM_IND_POLICEBOX)
       post:
         day: Post Office (Day)
         night: Post Office (Night)
       retail: Re-tail
       reset: Reset Centre (Active)
-      shoes: STRM_BGM_IND_SHOESHOP
+      shoes: Unknown (STRM_BGM_IND_SHOESHOP)
       homes: Nook's Homes
-      station: STRM_BGM_IND_STATION
+      station: Unknown (STRM_BGM_IND_STATION)
       dream: Dream Suite
+    island:
+      game:
+        day:
+          normal: Island Games (Day)
+          fast: Island Games (Day) (Fast)
+        hammer:
+          normal: Unknown (STRM_BGM_ISL_GAME_HAMMER)
+          fast: Unknown (STRM_BGM_ISL_GAME_HAMMER_FAST)
+        hide:
+          normal: Hide and Seek
+          fast: Hide and Seek (Fast)
+        night:
+          normal: Island Games (Night)
+          fast: Island Games (Night) (Fast)
+      lobby:
+        day: Island Lobby (Day)
+        night: Island Lobby (Night)
+      desk: Unknown (STRM_BGM_ISL_TOURDESK)
+    title:
+      playerselect: Player Select
+      title: >
+        Animal Crossing: New Leaf Title theme
+    escape:
+      mission: Unknown (STRM_JIN_ESC_MISSION)
+      nextday: Unknown (STRM_JIN_ESC_NEXTDAY)
+      opening: Unknown (STRM_JIN_ESC_OPENING_2)
+    misc:
+      diskwriter: Unknown (STRM_SE_FUR_DISKWRITER)
+      islandlast30: Unknown (STRM_BGM_ISL_LAST30FANFARE)
+    pnp:
+      kaiwa:
+        boss:
+          clear: Unknown (STRM_BGM_PNP_BOSS_CLEAR_KAIWA)
+          lost: Unknown (STRM_BGM_PNP_BOSS_LOST_KAIWA)
+        regular: Unknown (STRM_BGM_PNP_KAIWA)
+        round: Unknown (STRM_BGM_PNP_KAIWA_ROUND)
+      clear:
+        regular: Unknown (STRM_BGM_PNP_CLEAR)
+        oboss: Unknown (STRM_BGM_PNP_CLEAR_OBOSS)
+      gameset: Unknown (STRM_BGM_PNP_GAMESET)
+      getitem: Unknown (STRM_BGM_PNP_GET_ITEM)
+      lost:
+        regular: Unknown (STRM_BGM_PNP_LOST)
+        boss: Unknown (STRM_BGM_PNP_LOST_BOSS)
+      play:
+        regular: Unknown (STRM_BGM_PNP_PLAY)
+        chuboss: Unknown (STRM_BGM_PNP_PLAY_CHUBOSS)
+        oboss: Unknown (STRM_BGM_PNP_PLAY_OBOSS)
+      puzzlemode:
+        gameset: Unknown (STRM_BGM_PNP_PUZZLEMODE_GAMESET)
+        play: Unknown (STRM_BGM_PNP_PUZZLEMODE_PLAY)
+        result:
+          koushin: Unknown (STRM_BGM_PNP_PUZZLEMODE_RESULT_KOUSHIN)
+          normal: Unknown (STRM_BGM_PNP_PUZZLEMODE_RESULT_NORMAL)
+      settei: Unknown (STRM_BGM_PNP_SETTEI)
+      storyclear: Unknown (STRM_BGM_PNP_STORY_MODE_CLEAR)
+      title: Unknown (STRM_BGM_PNP_TITLE)
+    prologue:
+      oi: Unknown (STRM_BGM_PROLOGUE_01)
+      oz: Unknown (STRM_BGM_PROLOGUE_02)
+      o3: Unknown (STRM_BGM_PROLOGUE_03)
+      o4: Unknown (STRM_BGM_PROLOGUE_04)
+      o5: Unknown (STRM_BGM_PROLOGUE_05)
+      o6: Unknown (STRM_BGM_PROLOGUE_06)
+      o7: Unknown (STRM_BGM_PROLOGUE_07)
+      o8: Unknown (STRM_BGM_PROLOGUE_08)
+      o9: Unknown (STRM_BGM_PROLOGUE_09)
+      io: Unknown (STRM_BGM_PROLOGUE_10)
+      ii: Unknown (STRM_BGM_PROLOGUE_11)
+      iz: Unknown (STRM_BGM_PROLOGUE_12)
+      i3: Unknown (STRM_BGM_PROLOGUE_13)
