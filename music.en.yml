@@ -313,3 +313,4 @@ en:
       Playing random track from {}: {}
     playingbyfilename: Playing file {}
     playing: Playing {}
+    wrongguild: You cannot play music in another server.
