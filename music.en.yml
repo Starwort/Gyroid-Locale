@@ -13,9 +13,12 @@ en:
         b: Night theme 2 (Rain)
         c: Night theme 3 (Rain)
       quiet:
-        a: 'Quiet' theme 1 (Rain)
-        b: 'Quiet' theme 2 (Rain)
-        c: 'Quiet' theme 3 (Rain)
+        a: >
+          'Quiet' theme 1 (Rain)
+        b: >
+          'Quiet' theme 2 (Rain)
+        c: >
+          'Quiet' theme 3 (Rain)
       time:
         oo: 00:00 to 00:59 (Rain)
         oi: 01:00 to 01:59 (Rain)
