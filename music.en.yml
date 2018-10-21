@@ -328,8 +328,8 @@ en:
     notrequester: Only admins and the song requester can perfom this action
     notinvc: You are not in the voice channel and hence cannot perform this action
     noaudio: There is nothing playing here!
-    unknown: Think you can identify this track? Send the track's title to us with `[p]devmail {} <title>`
-    incorrect: Think this track's name is wrong? Send its actual title to us with `[p]devmail {} <corrected title>`
+    unknown: Think you can identify this track? Send the track's title to us with `[p]devmail {} => <title>`
+    incorrect: Think this track's name is wrong? Send its actual title to us with `[p]devmail {} => <corrected title>`
     queue: Queueing
     play: Playing
     requested_by: Requested by {}
