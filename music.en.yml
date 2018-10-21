@@ -311,6 +311,14 @@ en:
     notconnected: You cannot play a track while not in a voice channel!
     playingrandom: >
       Playing random track from {}: {}
+    queuerandom: >
+      Added random track from {} to queue: {}
     playingbyfilename: Playing file {}
+    queuebyfilename: Added file {} to queue
     playing: Playing {}
+    queue: Added {} to queue
     wrongguild: You cannot play music in another server.
+  misc:
+    notrequester: Only admins and the song requester can perfom this action
+    notinvc: You are not in the voice channel and hence cannot perform this action
+    noaudio: There is nothing playing!
