@@ -174,7 +174,7 @@ en:
       christmas: Christmas festival
       easter: Easter festival
       bonfire: Bonfire Night festival
-      gantan: STRM_BGM_EVT_GANTAN
+      gantan: Unknown (STRM_BGM_EVT_GANTAN)
       hallow: Halloween festival
       harvest: Harvest festival
       newyear: New Year\'s festival
@@ -255,7 +255,7 @@ en:
       diskwriter: Unknown (STRM_SE_FUR_DISKWRITER)
       islandlast30: Unknown (STRM_BGM_ISL_LAST30FANFARE)
     pnp:
-      title: Unknown (PNP) themes
+      title: Unknown ('PNP') themes
       kaiwa:
         boss:
           clear: Unknown (STRM_BGM_PNP_BOSS_CLEAR_KAIWA)
@@ -309,15 +309,20 @@ en:
     deafened: You cannot play a track while deafened!
     alreadyplaying: A track is already playing in this server!
     notconnected: You cannot play a track while not in a voice channel!
-    playingrandom: >
+    playingcategory: >
       Playing random track from {}: {}
-    queuerandom: >
+    playingrandom: >
+      Playing random track from all categories: {}
+    queuecategory: >
       Added random track from {} to queue: {}
+    queuerandom: >
+      Added random track from all categories to queue: {}
     playingbyfilename: Playing file {}
     queuebyfilename: Added file {} to queue
     playing: Playing {}
     queue: Added {} to queue
     wrongguild: You cannot play music in another server.
+    wrongchannel: Someone is playing music in another channel; you can't start another song here!
   misc:
     notrequester: Only admins and the song requester can perfom this action
     notinvc: You are not in the voice channel and hence cannot perform this action
