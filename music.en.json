@@ -182,7 +182,7 @@
                     "christmas": "Christmas festival",
                     "easter": "Easter festival",
                     "bonfire": "Bonfire Night festival",
-                    "gantan": "STRM_BGM_EVT_GANTAN",
+                    "gantan": "Unknown (STRM_BGM_EVT_GANTAN)",
                     "hallow": "Halloween festival",
                     "harvest": "Harvest festival",
                     "newyear": "New Year\\'s festival"
@@ -329,17 +329,39 @@
                     "iz": "Unknown (STRM_BGM_PROLOGUE_12)",
                     "i3": "Unknown (STRM_BGM_PROLOGUE_13)"
                 }
-            },
-            "play": {
-                "help": "Plays a track by name, filename, or random from a category or anything.\nExamples:\n[p]play\n[p]play sun\n[p]play Day Theme 2 (Sun)\n[p]play STRM_BGM_DAY_2_SUNNY\n",
-                "deafened": "You cannot play a track while deafened!",
-                "alreadyplaying": "A track is already playing in this server!",
-                "notconnected": "You cannot play a track while not in a voice channel!",
-                "playingrandom": "Playing random track from {}: {}\n",
-                "playingbyfilename": "Playing file {}",
-                "playing": "Playing {}",
-                "wrongguild": "You cannot play music in another server."
             }
+        },
+        "play": {
+            "help": "Plays a track by name, filename, or random from a category or anything.\nExamples:\n[p]play\n[p]play sun\n[p]play Day Theme 2 (Sun)\n[p]play STRM_BGM_DAY_2_SUNNY\n",
+            "deafened": "You cannot play a track while deafened!",
+            "alreadyplaying": "A track is already playing in this server!",
+            "notconnected": "You cannot play a track while not in a voice channel!",
+            "playingcategory": "Playing random track from {}: {}\n",
+            "playingrandom": "Playing random track from all categories: {}\n",
+            "queuecategory": "Added random track from {} to queue: {}\n",
+            "queuerandom": "Added random track from all categories to queue: {}\n",
+            "playingbyfilename": "Playing file {}",
+            "queuebyfilename": "Added file {} to queue",
+            "playing": "Playing {}",
+            "queue": "Added {} to queue",
+            "wrongguild": "You cannot play music in another server.",
+            "wrongchannel": "Someone is playing music in another channel; you can't start another song here!",
+            "end": "The playlist has ended, disconnecting."
+        },
+        "misc": {
+            "notrequester": "Only admins and the song requester can perfom this action",
+            "notinvc": "You are not in the voice channel and hence cannot perform this action",
+            "noaudio": "There is nothing playing here!",
+            "unknown": "Think you can identify this track? Send the track's title to us with `[p]devmail {} => <title>`",
+            "incorrect": "Think this track's name is wrong? Send its actual title to us with `[p]devmail {} => <corrected title>`",
+            "queue": "Queueing",
+            "play": "Playing",
+            "requested_by": "Requested by {}",
+            "np": "Now Playing"
+        },
+        "np": {
+            "help": ".\n",
+            "np": "Currently playing: {}"
         }
     }
 }
