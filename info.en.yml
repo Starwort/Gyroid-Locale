@@ -1,4 +1,0 @@
-en:
-  version:
-    help: Show the current bot version
-    version: The current bot version is {}
