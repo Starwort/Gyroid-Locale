@@ -1,12 +1,11 @@
 {
     "en": {
         "setprefix": {
-            "help": "Sets the server's cus0tom prefix (the original will still work). Requires the Manage Server permission. To use spaces in your prefix quote it.\nYou can even use a space at the end of the prefix.\n\nExample 1 (no spaces):\n[p]setprefix splat!\nExample 2 (with trailing space):\n[p]setprefix \"splat \"\n\nTo remove your server's prefix:\n[p]setprefix \"\"\n",
+            "help": "Sets the server's custom prefix (the original will still work). Requires the Manage Server permission. To use spaces in your prefix quote it.\nYou can even use a space at the end of the prefix.\n\nExample 1 (no spaces):\n[p]setprefix splat!\nExample 2 (with trailing space):\n[p]setprefix \"splat \"\n\nTo remove your server's prefix:\n[p]setprefix \"\"\n",
             "long": "In order to prevent abuse to my disk, the custom prefix length has been capped at 10. Sorry!",
-            "removed": "removed",
-            "changed": "changed to `{}`",
-            "set": "set to `{}`",
-            "formatted": "Your server's custom prefix has been {}."
+            "removed": "Your server's custom prefix has been removed.",
+            "changed": "Your server's custom prefix has been changed to `{}`.",
+            "set": "Your server's custom prefix has been set to `{}`."
         }
     }
 }
