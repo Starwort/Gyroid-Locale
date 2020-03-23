@@ -1,0 +1,96 @@
+{
+    "en": {
+        "youhavenoprofile": "You have no profile!",
+        "theyhavenoprofile": "They have no profile!",
+        "profile": {
+            "embed": {
+                "title": "Profile for {}",
+                "3ds": "3DS Friend Code",
+                "hacker": "3DS is Hacked",
+                "fc": "Nintendo Switch Friend Code",
+                "ign": "In-Game Name",
+                "town": "Town Name",
+                "villager": "Favourite Villager",
+                "fruit": "Town Starting Fruit",
+                "pwp": "Public Works Projects",
+                "dream": "Dream Address",
+                "furniture": "Completed Furniture Sets",
+                "songs": "Songs Unlocked",
+                "badges": "Badges Collected",
+                "requestedby": "Requested by {}"
+            },
+            "help": "All commands related to your profile.\nRunning any subcommand will initialise your profile.\nRunning without a command will show your profile, or that of a user you specify.\nExamples:\n[p]profile Starwort#6129\n[p]profile\n[p]profile Starwort\n",
+            "fruit": {
+                "set": "Your town's starting fruit has been set.",
+                "invalid": "That is not a valid starting fruit in your locale!",
+                "help": "Add your town's starting fruit to your profile.\nExample:\n[p]profile fruit Apples\n",
+                "fruit": {
+                    "apples": "Apples",
+                    "peaches": "Peaches",
+                    "cherries": "Cherries",
+                    "pears": "Pears",
+                    "oranges": "Oranges"
+                }
+            },
+            "dream": {
+                "set": "Your town's dream address has been set.",
+                "invalid": "That is not a valid dream address!",
+                "help": "Add your town's dream address to your profile.\nExample:\n[p]profile dream 6C00 - 00F9 - A575\n"
+            },
+            "3ds": {
+                "set": "Your 3DS friend code has been added.",
+                "invalid": "That is not a valid 3DS friend code.",
+                "help": "Add your 3DS friend code to your profile.\nExample:\n[p]profile 3ds 0791 - 2985 - 5401\n"
+            },
+            "fc": {
+                "set": "Your Nintendo Switch friend code has been added.",
+                "invalid": "That is not a valid Nintendo Switch friend code.",
+                "help": "Add your friend code to your profile.\nExample:\n[p]profile fc SW-1519-8784-6001\n"
+            },
+            "hacker": {
+                "set": "Your hacker status has been set to: {}\n",
+                "help": "Are you a hacker?\nExample:\n[p]profile hacker yes\n"
+            },
+            "furniture": {
+                "set": "You now have {} complete furniture sets.",
+                "many": "There are only 37 sets of furniture!",
+                "help": "Add how many furniture sets you've completed to your profile.\nExample:\n[p]profile furniture 24\n"
+            },
+            "songs": {
+                "set": "You now have {} songs unlocked.",
+                "many": "There are only 91 songs!",
+                "help": "Add the number of songs you've unlocked to your profile.\nExample:\n[p]profile songs 10\n"
+            },
+            "badges": {
+                "set": "You now have {} badges.",
+                "many": "There are only 72 badges!",
+                "help": "Add the number of badges you've collected to your profile.\nExample:\n[p]profile badges 42\n"
+            },
+            "villager": {
+                "set": "Your favourite villager has been set.",
+                "invalid": "That is not a valid villager in your locale.",
+                "help": "Add your favourite villager to your profile.\nExample:\n[p]profile villager Fauna\n"
+            },
+            "pwp": {
+                "set": "You now have {} completed Public Works Projects.",
+                "many": "You can only have 30 Public Works Projects in your town!",
+                "help": "Add the number of Public Works Projects you have completed to your profile.\nExample:\n[p]profile pwps 5\n"
+            },
+            "locale": {
+                "current": "Your current locale is {}.",
+                "set": "Your locale has been set.",
+                "help": "Check or set your locale. Defaults to `EN`\nExample:\n[p]profile locale en\n"
+            },
+            "ign": {
+                "set": "Your in-game name has been set.",
+                "long": "Your in-game name can only be 10 characters long!",
+                "help": "Set your in-game name.\nExample:\n[p]profile ign Starwort\n"
+            },
+            "town": {
+                "set": "Your town name has been set.",
+                "long": "Your town name can only be 10 characters long!",
+                "help": "Set your town's name.\nExample:\n[p]profile town Arcadia"
+            }
+        }
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "en": {
+        "confused": "Confused?",
+        "surprised": "Surprised?",
+        "missing_permissions": "Gyroid does not have all the permissions required for commands\n\nWithout these permissions, all commands will be withheld.\n\nThe required permissions for Gyroid are:\n```\nEmbed Links\nRead Message History\nAttach Files\n```\n\nThe additional recommended permissions for Gyroid are:\n```\nManage Messages\nAdd Reactions\n```\n\nCurrently missing required permissions:\n```\n{0}\n```\n\nCurrently missing recommended permissions:\n```\n{1}\n```\n\nIf the `Gyroid` role (or any other applied role) has these permissions, confirm that no channel overrides are causing the issue.\nIf problems persist, join the support server: `q2j8HtB`\n",
+        "permission_embed": "Embed Links",
+        "permission_history": "Read Message History",
+        "permission_files": "Attach Files",
+        "permission_messages": "Manage Messages",
+        "permission_reactions": "Add Reactions",
+        "permission_roles": "Manage Roles",
+        "permission_emoji": "Use External Emojis",
+        "no_missing": "None :D",
+        "devdm": "{}\n\n*Sent by `{}`*\nRespond to them by using `reply` in this DM.\n",
+        "devreply": "Replied to {}.",
+        "devmail": "Your message has been sent to the devs! They will likely respond shortly. Hold on tight and make sure Spyke can DM you!",
+        "time": {
+            "day": "day",
+            "days": "days",
+            "week": "week",
+            "weeks": "weeks",
+            "month": "month",
+            "months": "months",
+            "year": "year",
+            "years": "years",
+            "ago": "ago",
+            "minute": "minute",
+            "minutes": "minutes",
+            "hour": "hour",
+            "hours": "hours",
+            "second": "second",
+            "seconds": "seconds"
+        }
+    }
+}

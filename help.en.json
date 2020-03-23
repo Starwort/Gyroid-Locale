@@ -1,0 +1,23 @@
+{
+    "en": {
+        "help": {
+            "page_msg": "There are {} help pages. Send a number to see the corresponding page. Send any other message to exit.",
+            "quit": "Quit Help menu.",
+            "help": "Shows help documentation for a command, a list of commands with descriptions, or a list of commands within a category.\nExamples:\n[p]help\n[p]help profile\n[p]help profile 3ds\n[p]help Profile\n"
+        },
+        "formatter": {
+            "manual": "Gyroid Help Manual",
+            "footer": "Type {0}help <command> for more info on a command. You can also type {0}help <category> for more info on a category.",
+            "desc": "Gyroid's commands",
+            "syntax": "Syntax =",
+            "no_category": "No Category",
+            "part": "pt.",
+            "commands": "Commands",
+            "subcommands": "Subcommands",
+            "page": "Gyroid Help Manual Page {}",
+            "no_command": "No command called \"{}\" found.",
+            "command_not_found": "Commands are case sensitive. Please check your spelling and try again.",
+            "no_subcommands": "Command \"{0.name}\" has no subcommands."
+        }
+    }
+}
