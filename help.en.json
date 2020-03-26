@@ -1,22 +1,45 @@
 {
     "en": {
         "help": {
-            "page_msg": "There are {} help pages. Send a number to see the corresponding page. Send any other message to exit.",
-            "quit": "Quit Help menu.",
-            "help": "Shows help documentation for a command, a list of commands with descriptions, or a list of commands within a category.\nExamples:\n[p]help\n[p]help profile\n[p]help profile 3ds\n[p]help Profile\n"
+            "help": "Shows help documentation for a command, a list of commands with descriptions, or a list of commands within a category.\nExamples:\n[p]help\n[p]help profile\n[p]help profile 3ds\n[p]help Profile\n",
+            "support": {
+                "key": "Support",
+                "value": "For more help, Join the Argonaut Industries Support Server: https://discord.gg/q2j8HtB"
+            },
+            "bot_help": "An explanation of command signatures:\n**<argument>**\nThis means the argument is required.\n**[argument]**This means the argument is optional.\n**[A|B]**\nThis means that it can be either A or B.\n**[argument...]**\nThis means you can have multiple, or 0, arguments.\n__You do not type in the brackets__"
         },
-        "formatter": {
+        "menu": {
+            "quit": "Quit Help menu.",
+            "page_msg": "There are {} help pages. Send a number to see the corresponding page. Send any other message to exit.",
             "manual": "Gyroid Help Manual",
             "footer": "Type {0}help <command> for more info on a command. You can also type {0}help <category> for more info on a category.",
-            "desc": "Gyroid's commands",
-            "syntax": "Syntax =",
-            "no_category": "No Category",
-            "part": "pt.",
-            "commands": "Commands",
-            "subcommands": "Subcommands",
+            "page_part": "Gyroid Help Manual Page {0} pt. {1}/{2}",
             "page": "Gyroid Help Manual Page {}",
+            "desc": "Gyroid's commands",
+            "buttons": {
+                "what": "What do these reactions do?",
+                "first": "Jump to the first page",
+                "last": "Jump to the last page",
+                "next": "Go to the next page",
+                "prev": "Go to the previous page",
+                "number": "Jump to a page by number",
+                "help": "Shows this message",
+                "stop": "Quit the help session",
+                "bot_help": "Shows general information on how to use the bot"
+            },
+            "previous": "Previously on page {}"
+        },
+        "formatting": {
+            "syntax": "Syntax: {}",
+            "no_category": "No Category",
+            "help_missing": "This command does not have any help information."
+        },
+        "commands": {
             "no_command": "No command called \"{}\" found.",
             "command_not_found": "Commands are case sensitive. Please check your spelling and try again.",
+            "subcommand_not_found": "Command '{0.qualified_name}' has no subcommand named '{1}'.",
+            "commands": "Commands",
+            "subcommands": "Subcommands",
             "no_subcommands": "Command \"{0.name}\" has no subcommands."
         }
     }
