@@ -21,7 +21,7 @@
             "desc": "Gyroid's commands",
             "jump": {
                 "page_msg": "There are {} help pages. Send a number to see the corresponding page.",
-                "bad_page": "Invalid page gien ({} > {})",
+                "bad_page": "Invalid page given ({} > {})",
                 "timeout": "Number entry timed out."
             },
             "buttons": {
