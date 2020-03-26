@@ -7,5 +7,8 @@
         "bot_permission": "I do not have the required permissions! Missing: ```{}```\n",
         "rip_command": "This command is gone! You're looking for",
         "discord": "Something happened on Discord's end, try your command again later. This has been reported for you"
+    },
+    "permissions": {
+        "add_reactions": "Add Reactions"
     }
 }

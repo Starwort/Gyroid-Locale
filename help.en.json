@@ -9,14 +9,23 @@
             "bot_help": "An explanation of command signatures:\n**<argument>**\nThis means the argument is required.\n**[argument]**This means the argument is optional.\n**[A|B]**\nThis means that it can be either A or B.\n**[argument...]**\nThis means you can have multiple, or 0, arguments.\n__You do not type in the brackets__"
         },
         "menu": {
+            "meta": {
+                "welcome": "Welcome to the interactive help.",
+                "explanation": "This allows you to see pages of help interactively, by navigating with reactions. They are as follows:"
+            },
             "quit": "Quit Help menu.",
-            "page_msg": "There are {} help pages. Send a number to see the corresponding page. Send any other message to exit.",
             "manual": "Gyroid Help Manual",
             "footer": "Type {0}help <command> for more info on a command. You can also type {0}help <category> for more info on a category.",
-            "page_part": "Gyroid Help Manual Page {0} pt. {1}/{2}",
-            "page": "Gyroid Help Manual Page {}",
+            "page_part": "Gyroid Help Manual Page {0}/{1} pt. {2}/{3}",
+            "page": "Gyroid Help Manual (Page {0}/{1})",
             "desc": "Gyroid's commands",
+            "jump": {
+                "page_msg": "There are {} help pages. Send a number to see the corresponding page.",
+                "bad_page": "Invalid page gien ({} > {})",
+                "timeout": "Number entry timed out.",
+            },
             "buttons": {
+                "explanation": "Confused? React with {} for more info",
                 "what": "What do these reactions do?",
                 "first": "Jump to the first page",
                 "last": "Jump to the last page",
