@@ -22,7 +22,7 @@
             "jump": {
                 "page_msg": "There are {} help pages. Send a number to see the corresponding page.",
                 "bad_page": "Invalid page gien ({} > {})",
-                "timeout": "Number entry timed out.",
+                "timeout": "Number entry timed out."
             },
             "buttons": {
                 "explanation": "Confused? React with {} for more info",
