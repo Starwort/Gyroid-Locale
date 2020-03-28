@@ -1,7 +1,8 @@
 {
     "en": {
         "common": {
-            "timeout": "Session timed out. Cancelled."
+            "timeout": "Session timed out. Cancelled.",
+            "loading": "Loading reaction session"
         },
         "tutorial": {
             "cookie_notice": "To utilise some features of this bot, some cookies are required (these are used to access Nintendo's servers).\n\nReact with ✅ to view the information, or react with ❎ to skip it. If you have not used the token generation service before, it is recommended to view the information.\n\nThis message will time out in 2 minutes.",
