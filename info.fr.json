@@ -1,0 +1,8 @@
+{
+    "en": {
+        "version": {
+            "help": "Montrer la version actuelle du bot",
+            "version": "La version actuelle du bot est {}"
+        }
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "fr": {
+        "setprefix": {
+            "help": "Fixe le préfixe personnalisé de ce serveur (l'original va encore marcher). Il faut avoir la permission « Gérer le serveur ». Pour utiliser les espaces, encerlez-le avec les guillements anglais.\nVous pouvez même utiliser une espace au fin du préfixe\n\nExemple 1 (pas d'espaces):\n[p]setprefix splat!\nExemple 2 (avec une espace finale)\n[p]setprefix \"splat \"\n\nPour enlever le préfixe de votre serveur:\n[p]setprefix \"\"\n",
+            "long": "Pour empêcher l'abus à ma disquette, les préfixes personnalisés ont un maximum de dix lettres. Désolé!",
+            "removed": "Le préfixe personnalisé de votre serveur a été enlevé.",
+            "changed": "Le préfixe personnalisé de votre serveur a été remplacé par `{}`.",
+            "set":"Le préfixe personnalisé de votre serveur a été fixé à `{}`."
+        }
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "fr": {
+        "no_permission": "Vous n'avez pas de permissions d'utiliser cette commande.",
+        "missing_required": "Vous manquez des paramètres obligatoires.",
+        "bad": "Vous avez donné un paramètre incorrect.",
+        "reported": "Une erreur s'est produite avec la commande `{}`. Ceci a été signalé automatiquement pour vous.",
+        "bot_permission": "Je n'ai pas toutes les permissions obligatoires! Je manque: ```{}```\n",
+        "rip_command": "Cette command est disparue! Tu cherches",
+        "discord": "Quelque chose de mauvais est arrivé de le côté de Discord, Réessayez plus tard. Ceci a été signalé pour vous.",
+        "permissions": {
+            "add_reactions": "Ajouter des réactions"
+        }
+    }
+}

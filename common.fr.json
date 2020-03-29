@@ -1,0 +1,10 @@
+{
+    "fr": {
+        "unset": "Désinitialisé",
+        "err": "Une erreur s'est produite.",
+        "mhm": "Oui.\n",
+        "smh": "Non.\n",
+        "zero": "Vous ne pouvez pas utiliser un zéro ici.",
+        "negative": "Vous ne pouves pas utiliser un nombre négatif ici."
+    }
+}
