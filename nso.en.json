@@ -2,7 +2,8 @@
     "en": {
         "common": {
             "timeout": "Session timed out. Cancelled.",
-            "loading": "Loading reaction session"
+            "loading": "Loading reaction session",
+            "indentifier": "**{0}** from **{1}**"
         },
         "tutorial": {
             "cookie_notice": "To utilise some features of this bot, some cookies are required (these are used to access Nintendo's servers).\n\nReact with ✅ to view the information, or react with ❎ to skip it. If you have not used the token generation service before, it is recommended to view the information.\n\nThis message will time out in 2 minutes.",
@@ -20,8 +21,15 @@
             "invalid": "Invalid URL. Perhaps you used the wrong option?\n*Token generation has been cancelled.*"
         },
         "player_select": {
-            "indentifier": "**{0}** from **{1}**",
             "menu": "Please enter the number of the player you would like to use:\n{}\n\nThis message will time out in 2 minutes."
+        },
+        "friends": {
+            "all": "Your best friends",
+            "online": "Your best friends currently online",
+            "requested_by": "Requested by"
+        },
+        "error": {
+            "not_logged_in": "You are not logged into Nintendo Switch Online! Please use `{0}nso add` to log in."
         }
     }
 }
