@@ -29,7 +29,13 @@
             "requested_by": "Requested by"
         },
         "error": {
-            "not_logged_in": "You are not logged into Nintendo Switch Online! Please use `{0}nso add` to log in."
+            "not_logged_in": "You are not logged into Nintendo Switch Online! Please use `{0}nso add` to log in.",
+            "friend_not_found": "That friend cannot be found. Check spelling?"
+        },
+        "chat": {
+            "continuous_start": "Continuous messaging enabled! Any message in this chat sent by you will be send in-game. Type `stop` to stop.",
+            "continuous_timed_out": "Timed out!",
+            "continuous_stop": "Contionuous messaging disabled."
         }
     }
 }
