@@ -40,6 +40,10 @@
             "sent_one": {
                 "success": "Sent '{0}' to {1} successfully",
                 "failure": "Failed to send '{0}' to {1} (error code: {2})"
+            },
+            "destination": {
+                "island": "your island",
+                "friends": "your best friends"
             }
         }
     }
