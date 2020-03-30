@@ -33,9 +33,14 @@
             "friend_not_found": "That friend cannot be found. Check spelling?"
         },
         "chat": {
-            "continuous_start": "Continuous messaging enabled! Any message in this chat sent by you will be send in-game. Type `stop` to stop.",
-            "continuous_timed_out": "Timed out!",
-            "continuous_stop": "Contionuous messaging disabled."
+            "relay": {
+                "started": "Chat relay enabled. Any message sent here will be relayed to {}.\n\nChat relay will time out 2 minutes after your last message.",
+                "stopped": "Chat relay disabled."
+            },
+            "sent_one": {
+                "success": "Sent '{0}' to {1} successfully",
+                "failure": "Failed to send '{0}' to {1} (error code: {2})"
+            }
         }
     }
 }
