@@ -30,16 +30,17 @@
         },
         "error": {
             "not_logged_in": "You are not logged into Nintendo Switch Online! Please use `{0}nso add` to log in.",
-            "friend_not_found": "That friend cannot be found. Check spelling?"
+            "friend_not_found": "No friend called {} found. Make sure you spelt their name correctly."
         },
         "chat": {
             "relay": {
                 "started": "Chat relay enabled. Any message sent here will be relayed to {}.\n\nChat relay will time out 2 minutes after your last message.",
-                "stopped": "Chat relay disabled."
+                "stopped": "Chat relay disabled.",
+                "timeout": "Chat relay timed out; connection disabled."
             },
             "sent_one": {
-                "success": "Sent '{0}' to {1} successfully",
-                "failure": "Failed to send '{0}' to {1} (error code: {2})"
+                "success": "Sent '{0}' to {1} successfully.",
+                "failure": "Failed to send '{0}' to {1}."
             },
             "destination": {
                 "island": "your island",
