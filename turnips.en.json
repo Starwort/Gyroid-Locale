@@ -39,6 +39,10 @@
             "decreasing": "Decreasing",
             "all": "All patterns"
         },
-        "large_spike": "You have a chance of a Large Spike! The earliest the large spike can occur is on **{} {}** with a potential maximum of **{} bells**! Check again at that time to see if you have a large spike and if not, input that day's data and i'll see if there's more possibility!"
+        "week": {
+            "max": "Potential Maximum",
+            "min": "Guaranteed Minimum"
+        },
+        "large_spike": "You have a chance of a **Large Spike**! The earliest the large spike can occur is on **{} {}** with a potential maximum of **{} bells**! Check again at that time to see if you have a large spike and if not, input that day's data and i'll see if there's more possibility!"
     }
 }
