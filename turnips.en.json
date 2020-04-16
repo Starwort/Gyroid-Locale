@@ -19,6 +19,7 @@
         "possible_patterns": "Possible Patterns:",
         "probabilities": "Probabilities:",
         "error": {
+            "no_data": "You have no saved turnip data!",
             "no_day": "That isn't an acceptable day",
             "no_time": "That isn't an acceptable time",
             "no_pattern": "That isn't an acceptable pattern. The acceptable patterns are:\n",
