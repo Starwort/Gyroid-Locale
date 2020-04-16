@@ -12,6 +12,33 @@
         "times": {
             "am": "A.M.",
             "pm": "P.M."
-        }
+        },
+        "title": "Your turnip prices",
+        "buy_price": "**Buy Price:** {}",
+        "forecast": "Your turnip trend likeliness",
+        "possible_patterns": "Possible Patterns:",
+        "probabilities": "Probabilities:",
+        "error": {
+            "no_day": "That isn't an acceptable day",
+            "no_time": "That isn't an acceptable time",
+            "no_pattern": "That isn't an acceptable pattern. The acceptable patterns are:\n",
+            "errembed": {
+                "title": "Error with Turnip forecasting",
+                "description": "Sorry, we can't seem to find a pattern that correlates with your turnip prices. Double check your values are correct."
+            }
+        },
+        "success": {
+            "saved_value": "Your value has been saved.",
+            "saved_values": "Your values have been saved.",
+            "wiped_values": "All values have been wiped."
+        },
+        "patterns": {
+            "large_spike": "Large Spike",
+            "small_spike": "Small Spike",
+            "fluctuating": "Fluctuating",
+            "decreasing": "Decreasing",
+            "all": "All patterns"
+        },
+        "large_spike": "You have a chance of a Large Spike! The earliest the large spike can occur is on **{} {}** with a potential maximum of **{} bells**! Check again at that time to see if you have a large spike and if not, input that day's data and i'll see if there's more possibility!"
     }
 }
