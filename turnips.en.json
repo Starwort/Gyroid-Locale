@@ -44,7 +44,11 @@
             "max": "Potential Maximum",
             "min": "Guaranteed Minimum"
         },
-        "large_spike": "You have a chance of a **Large Spike**! The earliest the large spike can occur is on **{} {}** with a potential maximum of **{} bells**! Check again at that time to see if you have a large spike and if not, input that day's data and I'll see if there's more possibility!",
+        "large_spike": {
+            "upcoming": "You have a chance of a **Large Spike**! The earliest the large spike can occur is on **{} {}** with a potential maximum of **{} bells**! Check again at that time to see if you have a large spike and if not, input that day's data and I'll see if there's more possibility!",
+            "missed": "Oh no! Seems like you missed a potential **Large Spike**! This could've happened on the **{} {}** with a potential maximum of **{} bells**! Oh no! Check and log every turnip price!\n(NOTE that time travelling backwards will spoil turnips and you still won't get the large spike price.)",
+            "done": "You had and you logged your potential **Large Spike** price on **{} {}**! Congratulations for spiking to **{} bells**! Hope you sold your turnips then!"
+        },
         "to": "to",
         "one_pattern": "There seems to be only one pattern possible for the data you entered. Here's what you can expect from your missing values:"
     }
